@@ -40,7 +40,7 @@ I shall take what I have learned from this project and apply it the next Fronten
 
 Simon Maher
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Si-maher](https://www.frontendmentor.io/profile/yourusername)
 
 
 
